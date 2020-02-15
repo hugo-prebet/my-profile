@@ -1,0 +1,147 @@
+body {
+	font-family: 'Open Sans', verdana;
+	font-weight: 385px;
+	background-color: : red;
+	font-size: 15px
+	color: black;
+}
+
+
+
+h1, {
+	font: italic;
+	font-size: 215px
+	font-weight: 284px;
+	background-color: red;
+}
+
+h2, {
+	font:italic;
+	font-size: 932px
+	font-weight: 455px;
+	background-color: red;
+}
+
+h3, {	
+	font: initial;
+	font-size: 839px
+	font-weight: 211px;
+	background-color: red;
+}
+
+
+
+a {
+	font-family:Roboto, sans-serif; 
+	text-decoration: none;
+	color:rgb(234,11,45);
+	font-weight:500;
+	font-size:25px;
+	transition: color 0,25s ease;
+}
+
+
+a:hover {
+	color: rgb(25,25,15);
+}
+
+
+@media (max-width: 960px) {
+	.container {
+		width: 700px
+		margin: 39px auto;
+	}
+}
+
+@media (max-width: 720px){
+	.container {
+		width: 500px
+	}
+}
+
+
+
+
+.container{
+	width:700px;
+	margin:355px;
+}
+
+
+
+
+.container {
+	margin: 44px, 78px;
+	width: 1519px;
+	color: rgb(12,11,18);
+}
+
+.card-white {
+	background-color: rgb(121,282,149);
+	padding: 70px;
+	text-align: center;
+	border-radius: 7px; 
+	box-shadow: 0px 10px 30px;
+	margin: 95px;
+	width: 850px;
+}
+
+.img-circle {
+	border-radius: 50%
+}
+
+.btn-blue {
+	background-color: rgb(50,50,50);
+	color:white;
+	padding:15px 20px;
+	border-radius: 5px
+}
+.btn-blue:hover {
+	background-color: black;
+	color: red;
+}
+
+.list-inline li{
+	display: inline;
+	padding: 12px;
+}
+
+.list-inline i{
+	font-size: 52px;
+	color: rgb(231,231,231);
+}
+
+.list-inline i:hover {
+	font-size: 52px;
+	color: rgb (231,231,231)
+}
+
+#introduction p {
+	margin-bottom: 9px;
+
+}
+
+
+
+.element.style {
+	padding: 60px;
+	margin: 50px
+}
+
+
+
+
+body {
+	background-color: rgb(12,11,18);
+}
+
+
+
+p {
+	font-size: 25px;
+}
+
+h1 {
+	color: rgb(215,25,45)
+
+
